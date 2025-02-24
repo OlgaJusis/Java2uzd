@@ -6,7 +6,6 @@ let asmuoNR1 = {
     arNuolatGyvenaLT: 'taip',
     KiekDienuYraLt: 'daug',
 }
-console.log(asmuoNR1)
 
 let asmuoNR2 ={
     vardas: 'John',
